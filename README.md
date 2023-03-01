@@ -14,7 +14,6 @@ Actualmente, estoy buscando mi primer empleo en el área de Tecnología de la In
 
 
 
-📧 Contáctame
 📞 (+51) 939416975
 
 📧 deybiorrego@gmail.com
