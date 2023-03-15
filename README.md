@@ -6,7 +6,7 @@ Cuento con experiencia en el desarrollo de proyectos utilizando tecnologías com
 
 Poseo habilidades blandas como la resolución de problemas, el trabajo en equipo, el pensamiento creativo y lógico, la responsabilidad, la escucha activa, la capacidad de aprendizaje autónomo, la comunicación efectiva y el análisis de problemas. Estas habilidades han sido puestas en práctica durante la realización de los proyectos, lo que me permite contribuir eficazmente en un equipo de desarrollo.
 
-Actualmente, estoy buscando mi primer empleo en el área de Tecnología de la Información (TI), donde pueda aplicar mis habilidades y conocimientos para seguir creciendo profesionalmente y contribuir al éxito de la empresa. Estoy dispuesto a enfrentar nuevos desafíos y aprender de manera continua para mejorar mis habilidades y conocimientos en el área. Estoy seguro de que mi pasión por la programación, junto con mi compromiso y habilidades, me permitirán ser un activo valioso para cualquier equipo de desarrollo. Si estás buscando un desarrollador web apasionado y comprometido, ¡no dudes en contactarme!
+Estoy dispuesto a enfrentar nuevos desafíos y aprender de manera continua para mejorar mis habilidades y conocimientos en el área. Estoy seguro de que mi pasión por la programación, junto con mi compromiso y habilidades, me permitirán ser un activo valioso para cualquier equipo de desarrollo. Si estás buscando un desarrollador web apasionado y comprometido, ¡no dudes en contactarme!
 
 🛠️ Principales tecnologías y herramientas
 
