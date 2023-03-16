@@ -25,7 +25,15 @@ Estoy dispuesto a enfrentar nuevos desafíos y aprender de manera continua para 
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt=":javascript:" width="40" height="40" style="padding-right: 15px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt=":react:" width="40" height="40" style="padding-right: 15px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt=":css:" width="40" height="40" style="padding-right: 15px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt=":html:" width="40" height="40" style="padding-right: 15px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt=":redux:" width="40" height="40" style="padding-right: 15px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt=":nodejs:" width="40" height="40" style="padding-right: 15px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt=":express:" width="40" height="40" style="padding-right: 15px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt=":postgresql:" width="40" height="40" style="padding-right: 15px;">
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt=":postman:" width="40" height="40" style="padding-right: 15px;" />
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt=":figma:" width="40" height="40" style="padding-right: 15px;" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt=":vscode:" width="40" height="40" style="padding-right: 15px;" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pgadmin/pgadmin-original.svg" alt=":pgadmin:" width="40" height="40" style="padding-right: 15px;" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitflow/gitflow-original.svg" alt=":gitflow:" width="40" height="40" style="padding-right: 15px;" />
 
 ## Contacto
 <br>
