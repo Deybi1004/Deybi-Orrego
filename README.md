@@ -2,6 +2,9 @@
   <h1 style="font-size: 48px;">Hola 😀 soy Deybi Orrego, ¡Un gusto conocerte! 👋</h1>
 </div>
 
+<p align="center">
+  <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e473ei7sknsqcngly288rq84rd5mx47klraacjuo68d&rid=giphy.gif&ct=g" width="500px">
+</p>
 
 
 
@@ -9,7 +12,7 @@
 	
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Sobre mi**
 
-<picture> <img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTVjZWZlNTIwMTQ4MTVkOWNmM2M1NzM2NWJjOTIxMDYwNWQ2M2FlYyZjdD1n/2IudUHdI075HL02Pkk/giphy.gif" width = 480px></picture>
+<picture> <img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTVjZWZlNTIwMTQ4MTVkOWNmM2M1NzM2NWJjOTIxMDYwNWQ2M2FlYyZjdD1n/2IudUHdI075HL02Pkk/giphy.gif" width = 500px></picture>
 
 <br>
 
