@@ -30,6 +30,6 @@ Estoy dispuesto a enfrentar nuevos desafíos y aprender de manera continua para 
 ## Contacto
 <br>
 
-📞 (+51) 939416975
+<img src="https://icons8.com/vue-static/landings/animated-icons-new/icons/color/phone-message/phone-message_192.gif" alt="tellf" width="40" height="40" style="padding-right: 15px;">(+51) 939416975
 
 📧 deybiorrego@gmail.com
