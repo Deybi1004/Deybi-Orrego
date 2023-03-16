@@ -1,4 +1,16 @@
 # Deybi-Orrego
+
+<br>
+
+
+
+	
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+
+<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+
+<br>
+
 ¡Hola! Soy un desarrollador web apasionado por el mundo de la programación y el desarrollo móvil. Desde que tuve mi primera interacción con una computadora, me ha fascinado entender cómo funcionan los programas detrás de lo que se ve en la pantalla.
 Ahora comprendo que el mundo de la programación es muy amplio y me siento atraído por él :) .
 
