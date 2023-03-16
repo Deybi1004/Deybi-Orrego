@@ -29,8 +29,7 @@ Estoy dispuesto a enfrentar nuevos desafíos y aprender de manera continua para 
 
 ## Contacto
 <br>
-<img src="https://cdn-icons-png.flaticon.com/512/3870/3870798.png" alt="tef" width="20" height="20" style="padding-right: 15px;">
-h(+51) 939416975
+<img src="https://cdn-icons-png.flaticon.com/512/3870/3870798.png" alt="tef" width="25" height="25" style="padding-right: 15px;">(+51) 939416975
 
 
 
