@@ -1,13 +1,15 @@
-# Hola , Soy  Deybi-Orrego 
+<div align="center">
+  <h1 style="font-size: 48px;">Hola 😀 soy Deybi Orrego, ¡Un gusto conocerte! 👋</h1>
+</div>
 
-<br>
+
 
 
 
 	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Sobre mi**
 
-<picture> <img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTVjZWZlNTIwMTQ4MTVkOWNmM2M1NzM2NWJjOTIxMDYwNWQ2M2FlYyZjdD1n/2IudUHdI075HL02Pkk/giphy.gif" width = 250px></picture>
+<picture> <img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTVjZWZlNTIwMTQ4MTVkOWNmM2M1NzM2NWJjOTIxMDYwNWQ2M2FlYyZjdD1n/2IudUHdI075HL02Pkk/giphy.gif" width = 450px></picture>
 
 <br>
 
@@ -20,21 +22,40 @@ Poseo habilidades blandas como la resolución de problemas, el trabajo en equipo
 
 Estoy dispuesto a enfrentar nuevos desafíos y aprender de manera continua para mejorar mis habilidades y conocimientos en el área. Estoy seguro de que mi pasión por la programación, junto con mi compromiso y habilidades, me permitirán ser un activo valioso para cualquier equipo de desarrollo. Si estás buscando un desarrollador web apasionado y comprometido, ¡no dudes en contactarme!
 
-## 🛠️ Principales tecnologías y herramientas
+
+
+
+<div align="left">
+  <h1 style="font-size: 48px;">🛠️ Principales tecnologías y herramientas </h1>
+</div>
+
+<br>
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt=":javascript:" width="60" height="60" style="padding-right: 15px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt=":react:" width="60" height="60" style="padding-right: 15px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt=":css:" width="60" height="60" style="padding-right: 15px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt=":html:" width="60" height="60" style="padding-right: 15px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt=":redux:" width="60" height="60" style="padding-right: 15px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt=":nodejs:" width="60" height="60" style="padding-right: 15px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt=":express:" width="60" height="60" style="padding-right: 15px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt=":postgresql:" width="60" height="60" style="padding-right: 15px;"><img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/postman_macos_bigsur_icon_189815.png" alt=":postman:" width="60" height="60" style="padding-right: 15px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt=":figma:" width="60" height="60" style="padding-right: 15px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt=":vscode:" width="60" height="60" style="padding-right: 15px;" /><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png" alt=":gitflow:" width="60" height="60" style="padding-right: 15px;" />
+</p>
+
+
+## 📞 Contáctame </h1>
+
+
 <br>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt=":javascript:" width="40" height="40" style="padding-right: 15px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt=":react:" width="40" height="40" style="padding-right: 15px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt=":css:" width="40" height="40" style="padding-right: 15px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt=":html:" width="40" height="40" style="padding-right: 15px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt=":redux:" width="40" height="40" style="padding-right: 15px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt=":nodejs:" width="40" height="40" style="padding-right: 15px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt=":express:" width="40" height="40" style="padding-right: 15px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt=":postgresql:" width="40" height="40" style="padding-right: 15px;"><img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/postman_macos_bigsur_icon_189815.png" alt=":postman:" width="40" height="40" style="padding-right: 15px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt=":figma:" width="40" height="40" style="padding-right: 15px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt=":vscode:" width="40" height="40" style="padding-right: 15px;" /><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png" alt=":gitflow:" width="40" height="40" style="padding-right: 15px;" />
+<p align="center">
+  <p style="display: flex; justify-content: flex-end; align-items: center;">
+    <img src="https://cdn-icons-png.flaticon.com/512/3870/3870799.png" alt="tef" width="20" height="20" style="padding-right: 15px; margin-right: 20px;"> <span style="padding-left: 15px;">(+51) 939416975</span>
+  </p>
+  <p style="display: flex; justify-content: flex-end; align-items: center;">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="gmail" width="20" height="20" style="padding-right: 15px; margin-right: 20px;"> <span style="padding-left: 15px;">deybiorrego@gmail.com</span>
+  </p>
+</p>
 
-## Contacto
+
+
 <br>
-<div style="display: flex; justify-content: flex-end; align-items: center;">
-  <img src="https://cdn-icons-png.flaticon.com/512/3870/3870799.png" alt="tef" width="25" height="25" style="padding-right: 15px;">
-  <span style="padding-left: 15px;">   (+51) 939416975</span>
-</div>
-<br>
-<div style="display: flex; justify-content: flex-end; align-items: center;">
-  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="gmail" width="25" height="25" style="padding-right: 15px;">
-  <span style="padding-left: 15px;">   deybiorrego@gmail.com</span>
-</div>
+
+<p align="center">
+  <img src="https://media2.giphy.com/media/l3q2KRkOVYvi8WfU4/giphy.gif?cid=ecf05e47am34jaz37ow95tc0jt2sycuy8fgppyjslum9cw7x&rid=giphy.gif&ct=g" width="800px">
+</p>
+
