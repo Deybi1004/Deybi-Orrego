@@ -7,7 +7,7 @@
 	
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="https://lottiefiles.com/138767-laptop-animatiion" width = 250px></picture>
+<picture> <img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTVjZWZlNTIwMTQ4MTVkOWNmM2M1NzM2NWJjOTIxMDYwNWQ2M2FlYyZjdD1n/2IudUHdI075HL02Pkk/giphy.gif" width = 250px></picture>
 
 <br>
 
@@ -29,10 +29,12 @@ Estoy dispuesto a enfrentar nuevos desafíos y aprender de manera continua para 
 
 ## Contacto
 <br>
-<img src="https://cdn-icons-png.flaticon.com/512/3870/3870799.png" alt="tef" width="25" height="25" style="padding-right: 15px;">
-(+51) 939416975
-
-
-<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="gmail" width="25" height="25" style="padding-right: 15px;">
-deybiorrego@gmail.com
-
+<div style="display: flex; justify-content: flex-end; align-items: center;">
+  <img src="https://cdn-icons-png.flaticon.com/512/3870/3870799.png" alt="tef" width="25" height="25" style="padding-right: 15px;">
+  <span style="padding-left: 15px;">   (+51) 939416975</span>
+</div>
+<br>
+<div style="display: flex; justify-content: flex-end; align-items: center;">
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="gmail" width="25" height="25" style="padding-right: 15px;">
+  <span style="padding-left: 15px;">   deybiorrego@gmail.com</span>
+</div>
