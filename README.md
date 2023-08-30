@@ -9,29 +9,6 @@
 
 
 
-	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Sobre mi**
-
-<picture> <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzM2MGViNTg3Y2M0MDgwN2E0ZWM1YTRkYzExMGE1NzBmY2U0Y2VlMCZjdD1n/2IudUHdI075HL02Pkk/giphy.gif" width = 500px></picture>
-
-<br>
-
-
-<div align="left">
-  <h1 style="font-size: 48px;">🛠️ Principales tecnologías y herramientas </h1>
-</div>
-
-<br>
-<p align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt=":javascript:" width="60" height="60" style="padding-right: 15px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt=":react:" width="60" height="60" style="padding-right: 15px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt=":css:" width="60" height="60" style="padding-right: 15px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt=":html:" width="60" height="60" style="padding-right: 15px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt=":redux:" width="60" height="60" style="padding-right: 15px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt=":nodejs:" width="60" height="60" style="padding-right: 15px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt=":express:" width="60" height="60" style="padding-right: 15px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt=":postgresql:" width="60" height="60" style="padding-right: 15px;"><img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/postman_macos_bigsur_icon_189815.png" alt=":postman:" width="60" height="60" style="padding-right: 15px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt=":figma:" width="60" height="60" style="padding-right: 15px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt=":vscode:" width="60" height="60" style="padding-right: 15px;" /><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png" alt=":gitflow:" width="60" height="60" style="padding-right: 15px;" />
-</p>
-
-
-
-
-
 <br>
 
 <p align="center">
